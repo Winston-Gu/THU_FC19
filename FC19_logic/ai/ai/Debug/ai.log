@@ -1,0 +1,4 @@
+﻿  ai.cpp
+E:\Computer\新生C\AI FC19\AI FC19\AI FC19\FC18_logic\player_ai\ai\ai\ai.cpp(61,27): warning C4018: “<”: 有符号/无符号不匹配
+    正在创建库 E:\Computer\新生C\AI FC19\AI FC19\AI FC19\FC18_logic\player_ai\ai\Debug\ai.lib 和对象 E:\Computer\新生C\AI FC19\AI FC19\AI FC19\FC18_logic\player_ai\ai\Debug\ai.exp
+  ai.vcxproj -> E:\Computer\新生C\AI FC19\AI FC19\AI FC19\FC18_logic\player_ai\ai\Debug\ai.dll

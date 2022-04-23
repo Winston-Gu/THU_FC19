@@ -1,0 +1,1 @@
+将ai.cpp中play_ai函数替换直接运行即可，生成文件在x64/Release或x64/Debug文件夹下,取决于解决方案设置

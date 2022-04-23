@@ -1,0 +1,2 @@
+生成dll后将dll拷贝至dll文件夹下，需要两个dll程序才能成功运行，在config文件夹下将config19_msvc.ini中dll路径正确填入，运行Game.exe即可。
+生成的txt在log文件夹下根据运行时系统时间生成的对应的文件夹内，分为round1,round2，有action.txt,state.txt,attack.txt三个文件。
